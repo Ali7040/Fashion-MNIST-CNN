@@ -1,1 +1,1 @@
-# -Fashion-MNIST-CNN
+# Fashion-MNIST-CNN
