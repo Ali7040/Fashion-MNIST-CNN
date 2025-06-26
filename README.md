@@ -91,7 +91,7 @@ These help in understanding both overfitting and class-wise performance.
 
 ## ✅ Evaluation
 
-- Accuracy: **~XX%** (replace with actual number)
+- Accuracy: **~90.81%%**
 - Most confused classes: [Shirt ↔ T-shirt], [Sneaker ↔ Ankle boot]
 - Generalized well on unseen data
 
